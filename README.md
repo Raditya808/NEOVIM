@@ -58,3 +58,14 @@ nvim
 
 # UPDATE WITH COPILOT
 
+```bash
+  :Copilot set up (for login)
+```
+
+```bash
+:Copilot enable (for activate copilot)
+```
+
+```bash
+:Copilot status (status)
+```
