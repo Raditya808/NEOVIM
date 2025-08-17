@@ -1,0 +1,17 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "opts",
+        "config",
+        "dap",
+        "async",
+        "j",
+        "init_options"
+    ],
+    "diagnostics.disable": [
+        "redundant-value",
+        "undefined-global",
+        "redefined-local",
+        "missing-fields"
+    ]
+}
