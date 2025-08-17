@@ -56,9 +56,5 @@ git clone https://github.com/ariefdrm/nvim-config.git ~/.config/nvim
 nvim
 ```
 
+# UPDATE WITH COPILOT
 
-
-
-```bash
-update with copilot pacakage
-```
