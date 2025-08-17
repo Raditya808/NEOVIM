@@ -55,3 +55,10 @@ git clone https://github.com/ariefdrm/nvim-config.git ~/.config/nvim
 ```bash
 nvim
 ```
+
+
+
+
+```bash
+update with copilot pacakage
+```
