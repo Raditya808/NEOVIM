@@ -59,7 +59,7 @@ nvim
 # UPDATE WITH COPILOT
 
 ```bash
-  :Copilot set up (for login)
+:Copilot set up (for login)
 ```
 
 ```bash
