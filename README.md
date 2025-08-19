@@ -27,7 +27,7 @@ Move-Item $env:LOCALAPPDATA\nvim-data $env:LOCALAPPDATA\nvim-data.bak
 - Clone the project
 
 ```bash
-git clone https://github.com/ariefdrm/nvim-config.git $env:LOCALAPPDATA\nvim
+git clone https://github.com/Raditya808/NEOVIM.git $env:LOCALAPPDATA\nvim
 ```
 
 ### Linux
@@ -47,7 +47,7 @@ mv ~/.cache/nvim{,.bak}
 - Git clone github repo
 
 ```bash
-git clone https://github.com/ariefdrm/nvim-config.git ~/.config/nvim
+git clone https://github.com/Raditya808/NEOVIM.git ~/.config/nvim
 ```
 
 - Start Neovim
@@ -69,3 +69,4 @@ nvim
 ```bash
 :Copilot status (status)
 ```
+# Selamat Mencoba
